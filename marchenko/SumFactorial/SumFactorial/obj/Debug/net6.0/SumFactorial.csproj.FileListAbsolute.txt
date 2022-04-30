@@ -1,0 +1,15 @@
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\bin\Debug\net6.0\SumFactorial.exe
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\bin\Debug\net6.0\SumFactorial.deps.json
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\bin\Debug\net6.0\SumFactorial.runtimeconfig.json
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\bin\Debug\net6.0\SumFactorial.dll
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\bin\Debug\net6.0\SumFactorial.pdb
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.csproj.AssemblyReference.cache
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.AssemblyInfoInputs.cache
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.AssemblyInfo.cs
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.csproj.CoreCompileInputs.cache
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.dll
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\refint\SumFactorial.dll
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.pdb
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\SumFactorial.genruntimeconfig.cache
+D:\myprojects\algo\marchenko\SumFactorial\SumFactorial\obj\Debug\net6.0\ref\SumFactorial.dll
